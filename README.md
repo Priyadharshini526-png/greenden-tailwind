@@ -28,11 +28,13 @@ Smooth hover and transition effects
 Semantic HTML5 for accessibility
 
 🛠 Tech Stack:
+
 HTML5
 
 Tailwind CSS
 
 📌 Project Goals:
+
 Build a professional plant store frontend layout
 
 Practice creating multi-page responsive sites with Tailwind
