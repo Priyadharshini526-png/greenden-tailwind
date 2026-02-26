@@ -2,6 +2,8 @@
 
 Project Title: Greenden Plant Website
 
+Live Demo: https://priyadharshini526-png.github.io/greenden-tailwind/
+
 Description:
 
 Greenden is a responsive multi-page plant store website built with Tailwind CSS, designed to provide a clean and modern user experience for browsing, shopping, and contacting a botanical business. The project includes a visually appealing Homepage, a functional Product Page, and a user-friendly Contact Page, all crafted with Tailwind’s utility-first approach.
